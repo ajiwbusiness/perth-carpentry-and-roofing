@@ -1,0 +1,13 @@
+{
+  "name": "Perth Carpentry and Roofing — Roofing Contractor",
+  "short_name": "Perth Carpentry and Roofing",
+  "description": "Licensed & insured roofing contractor in Perth, WA — replacement, repair, and storm damage.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101B26",
+  "theme_color": "#101B26",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "assets/icons/icon.svg", "sizes": "512x512", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

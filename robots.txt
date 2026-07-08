@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://perth-carpentry-and-roofing-perth.pages.dev/sitemap.xml
